@@ -1,0 +1,4 @@
+    Chicken curry is a dish originating from the Indian subcontinent.
+    It is common in the Indian subcontinent, Southeast Asia, and Great Britain, as well as in the Caribbean (where it is usually referred to as curry chicken). 
+    A typical curry from the Indian subcontinent consists of chicken stewed in an onion- and tomato-based sauce, flavoured with ginger, garlic, tomato puree, chilli peppers and a variety of spices, often including turmeric, cumin, coriander, cinnamon, and cardamom. 
+    Outside South Asia, curry chicken is often made with a pre-made spice mixture known as curry powder.
